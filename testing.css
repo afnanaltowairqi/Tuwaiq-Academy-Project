@@ -89,9 +89,16 @@
     flex-flow: row wrap;
     align-content: start;
 }
-
 .img2 {
     width: 100%;
+}
+.imgpearson {
+    width: 18%;
+    position: absolute;
+    z-index: 1;
+    bottom: -10rem;
+    right: 50rem;
+    translate: -70%;
 }
 .img3 {
     width: 100%;
