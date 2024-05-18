@@ -12,7 +12,6 @@
     padding: 0;
 }
 .navbar{
-    border: 1px solid #4e3797;
     background-color: #4e3797;
     height: 30vh;
     display: flex;
@@ -20,7 +19,6 @@
     justify-content: start;
 }
 .logo {
-    border: 3px solid #4e3797;
     width: 23vw;
     height: 15vh;
     display: flex;
@@ -32,7 +30,6 @@
     width: 70%;
 }
 .items {
-    border: 3px solid #4e3797;
     height: 15vh;
     width: 50vw;
     display: flex;
@@ -59,7 +56,6 @@
     font-size: larger;
 }
 .lang {
-    border: 3px solid #4e3797;
     width: 7vw;
     height: 15vh;
     color: white;
@@ -72,7 +68,6 @@
     font-size: larger;
 }
 .test {
-    border: 3px solid #4e3797;
     color:white;
     width: 37vw;
     height: 10vh;
@@ -104,7 +99,6 @@
     width: 100%;
 }
 .section2 {
-    border: 3px solid #ffffff;
     height: 65vh;
     display: flex;
     flex-flow: row wrap;
@@ -112,7 +106,6 @@
     align-content: start;
 }
 .box1 {
-    border: 3px solid #ffffff;
     height: 30vh;
     width: 80vw;
     display: flex;
@@ -121,7 +114,6 @@
     align-content: start;
 }
 .para1 {
-    border: 3px solid #ffffff;
     font-family: DIN;
     width: 60vw; 
     height: 10vh;
@@ -130,7 +122,6 @@
     align-content: center;
 }
 .center {
-    border: 3px solid #ffffff;
     color: rgb(27, 27, 27);
     font-family: DINM;
     font-size: 30px;
@@ -141,7 +132,6 @@
     align-content: end;
 }
 .box2 {
-    border: 3px solid #ffffff;
     height: 30vh;
     width: 80vw;
     display: flex;
@@ -150,7 +140,6 @@
     align-content: start;
 }
 .cer {
-    border: 3px solid #ffffff;
     color: rgb(27, 27, 27);
     font-family: DINM;
     font-size: 30px;
@@ -161,7 +150,6 @@
     align-content: start;
 }
 .fields {
-    border: 3px solid #ffffff;
     height: 5vh;
     width: 79vw;
     display: flex;
@@ -173,7 +161,6 @@
     gap: 30px;
 }
 .square{
-    border: 3px solid #ffffff;
     height: 5vh;
     width: 81vw;
     display: flex;
@@ -190,14 +177,12 @@
     height: 1vh;
 }
 .section3 {
-    border: 3px solid #ffffff;
     height: 75vh;
     display: flex;
     flex-flow: row wrap;
     justify-content: center;
 }
 .comp {
-    border: 3px solid #ffffff;
     color: rgb(27, 27, 27);
     font-family: DINM;
     font-size: 30px;
@@ -209,7 +194,6 @@
     align-items: start;
 }
 .box3{
-    border: 3px solid #ffffff;
     height: 60vh ;
     display: flex;
     flex-flow: column wrap ;
