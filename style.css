@@ -1,10 +1,10 @@
-@font-face { src: url(/fonts/DINNextLTArabic-Regular-3.ttf);
+@font-face { src: url(DINNextLTArabic-Regular-3.ttf);
     font-family: DIN;
 }
-@font-face { src: url(/fonts/DINNextLTArabic-Bold-4.ttf);
+@font-face { src: url(DINNextLTArabic-Bold-4.ttf);
    font-family: DINB;
 }
-@font-face { src: url(/fonts/DINNextLTArabic-Medium-4.ttf);
+@font-face { src: url(DINNextLTArabic-Medium-4.ttf);
    font-family: DINM;
 }
 * {
