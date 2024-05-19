@@ -40,14 +40,21 @@ video {
     align-items: center;
     gap: 25px;
     position: absolute;
+    text-decoration:none;
+
     z-index: 1;
     top: 0%;
     right: 23%;
 }
 .item1 ,.item2 , .item3 , .item4 , .item5 {
     color: white;
+    text-decoration: none;
     font-family: DIN ;
     font-size: 18px;
+}
+.items a{
+    color: #ffffff;
+    text-decoration: none;
 }
 .login {
     height: 10vh;
@@ -352,3 +359,324 @@ video {
     font-family: DIN;
     font-size: 15px;
 }
+.mysec{
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    height: 90vh;
+    justify-content: space-around;
+    align-items:center;
+    /* justify-content: space-around; */
+    /* border: solid 12px; */
+    background-color: rgb(78 55 151);
+    ;
+}
+
+
+/* .mysec h1{
+    text-align: center;
+} */
+/* .km{
+    position: relative;
+    bottom: 40%;
+    right: 45%;
+    
+    
+    /* border: 12px solid; */
+/* } */
+.km p{
+    text-align: center;
+    font-family: DIN;
+    color: black;
+    font-weight: 700;
+    font-size: 2rem;
+    line-height: 2.25rem;
+} */
+span{
+    position: relative;
+    top: 10%;
+    font-family: DIN;
+    color: rgb(90, 26, 26);
+    font-weight: 700;
+    font-size: 2rem;
+    line-height: 2.25rem;
+
+}
+.my-card1{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    width: 90%;
+    height: 100%;
+
+    /* border: 12px solid; */
+    /* width: 190px;
+    height: 254px;
+    border-radius: 1rem;
+    position: relative;
+    background-color: #ffffff; */
+
+
+
+}
+.my-card2{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-wrap: wrap;
+    width: 280px;
+    height: 450px;
+    border-radius: 1rem;
+    position: relative;
+    background-color: #ffffff;
+    /* text-align: center; */
+}
+.my-btn{
+    border: 1px solid #4e3797;
+    border-radius: 25px;
+    color: #4e3797;
+    height: 7vh;
+    width: 10vw;
+    display: flex;
+    flex-wrap: wrap;
+    flex-flow: wrap;
+    justify-content: center;
+    align-items: center;
+    font-family: DIN ;
+    position: relative;
+    top: 35px;
+    right: 50px;
+}
+
+.tuw{
+    color: #ffffff;
+    position: relative;
+    margin: 50px;
+    font-family: din;
+}
+.my-card2 h1{
+    display: flex;
+    align-items: center;
+    color:rgb(91 190 194);
+    /* text-align: center; */
+    font-weight: 500;
+    font-size: 1.5rem;
+    line-height: 2rem;
+}
+.ana{
+    display: flex;
+    align-items: center;
+}
+.my-info{
+
+
+    border: 1px solid #8d7bca;
+    width: 6vw;
+    height: 4vh;
+    border-radius: 20px;
+    text-align: center;
+    color: #8d7bca;
+    font-family: DIN;
+    font-size: 15px;
+}
+.gg{
+    height: 5vh;
+    color: #272727;
+    font-family: DIN;
+    font-size: 16px;
+    text-align: center;
+    display: flex;
+    flex-flow: column wrap;
+    justify-content: end;
+}
+.g-par{
+    display: flex;
+    /* border: 9px solid; */
+}
+
+.my-sec2{
+    display: flex;
+    justify-content: center;
+    width: 100%;
+    height: 50vh;
+    background-color: rgb(231, 231, 231);
+    /* border: 12px solid; */
+    
+}
+.partners{
+    /* display: flex; */
+    /* width: 50VW; */
+    height: 0;
+    color: #272727;
+    font-family: DIN;
+
+    font-size: 30px;
+
+}
+.my-card3{
+    display: flex;
+    
+    /* border: 12px solid; */
+    width: 100%;
+    align-items: center;
+    justify-content: space-around;
+    /* background-color: rgb(231, 231, 231); */
+
+
+
+}
+.my-card4{
+    align-items: center;
+    /* display: flex; */
+    width: 240px;
+    height: 200px;
+    /* border-radius: 1rem; */
+    /* position: relative; */
+    background-color: #f5f5f5;
+    justify-content: space-between;
+    /* border: 12px solid; */
+
+
+}
+.apple{
+    position: relative;
+    top: 50px;
+    right: 82px;
+}
+.apple1{
+    position: relative;
+    top: 78px;
+    right: 78px;
+}
+.apple2{
+    position: relative;
+    top: 56px;
+    right: 59px;
+}
+.apple3{
+    position: relative;
+    top: 67px;
+    right: 94px;
+}
+.my-last{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+    /* border: 12px solid; */
+    height: 20vh;
+    background-color: #5bbec2;
+    text-align: center;
+    gap: 15px;
+}
+.emil{
+    color: #ffffff;
+    font-family: din;
+}
+.btnns{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    /* border: solid ; */
+    gap: 10px;
+    text-align: center;
+
+
+}
+.btn--{
+    width:200px;
+    height: 60px;
+    font-family: din;
+    color: #ffffff;
+    font-size: medium;
+    border-radius: 10px;
+    background-color: #4e3797;
+
+}
+.btn-{
+    display: flex;
+    gap: 10px;
+    background-color: #ffffff;
+    border-color: #ffffff;
+    width:200px;
+    height: 60px;
+    border-radius: 10px;
+}
+.footer {
+    background-color: #4e3797;
+    height: 55vh;
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: start;
+}
+.logofooter {
+    width: 23vw;
+    height: 40vh;
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: end;
+    align-items: center;
+}
+.imgf {
+    width: 65%;
+}
+.footeritems {
+    width: 35vw;
+    height: 40vh;
+    display: flex;
+    flex-flow: column wrap;
+    justify-content: center;
+    align-items: center;
+}
+.line1 {
+    width: 25vw;
+    height: 5vh;
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: space-between;
+}
+.line2 {
+    width: 25vw;
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: space-between;
+}
+.f1 , .f2 , .f3 ,.f4 {
+    color: white;
+    font-family: DIN ;
+    font-size: 16px;
+}
+.logofooter2 {
+    width: 15vw;
+    height: 40vh;
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: start;
+    align-items: center;
+}
+.logofooter3 {
+    width: 18vw;
+    height: 40vh;
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: end;
+    align-items: center;
+}
+.imgf2 {
+    width: 95%;
+}
+.lastsec {
+    background-color: #4e3797;
+    height: 7vh;
+    width: 100vw;
+    color: white;
+    font-family: DIN ;
+    font-size: 16px;
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: center;
+}
+
+
+
+
