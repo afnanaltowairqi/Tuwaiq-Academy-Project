@@ -316,6 +316,7 @@ video {
 }
 .line {
     height: 6vh;
+    width: 22vw;
     display: flex;
     flex-flow: row wrap;
     align-content: start;

@@ -11,6 +11,10 @@
     margin: 0;
     padding: 0;
 }
+a {
+    text-decoration: none;
+    color: white;
+}
 .navbar{
     background-color: #4e3797;
     height: 30vh;
